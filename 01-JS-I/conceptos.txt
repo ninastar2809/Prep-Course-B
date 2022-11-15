@@ -1,0 +1,7 @@
+variable: todos los objetos, personas o situaciones pueden ser descritas de alguna manera, y esa manera que describe una parte a la totalidad se llama variable 
+strings: es una variable que se expresa con una caracteristica cualquiera;  y que esta sea informacion textual, nunca podria describirse con numeros
+Booleans: es una variable que solo puede ser descrita como verdadero o falso, si eres un niño blanco y te presguntan si eres niño blanco solo existe como respuesta si o no 
+Undifened: una variable que no se definio  
+Null:una variable que no se le ha asigando ningun valor, puede que lo tenga pero no se le  asignado
+Operadores: son expresiones que implican, un cambio en el valor de la variable es decir una suma de un lapiz mas otro lapiz el resultado es un valor diferente 
+`==` vs. `===` : son operadores, el primero hace una comparacion  entre variables que son iguales asi se expresen de manera diferente  y el segundo indica que hay un resultado de igualdad,ejemplo en una suma siempre habra un resusltado y eso se representa con la igualdad estricta
